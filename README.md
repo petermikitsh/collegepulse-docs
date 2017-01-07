@@ -1,4 +1,6 @@
-<img src='https://raw.githubusercontent.com/petermikitsh/collegepulse-docs/master/img/logo.png' height="50%" width="50%"></img>
+<div style='text-align: center;'>
+  <img src='img/logo.png' height="50%" width="50%"/>
+</div>
 
 ## CollegePulse
 

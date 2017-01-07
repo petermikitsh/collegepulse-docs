@@ -1,0 +1,23 @@
+{
+  "name": "collegepulse-docs",
+  "version": "1.0.0",
+  "description": "CollegePulse documentation.",
+  "scripts": {
+    "build": "gitbook build",
+    "start": "gitbook serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petermikitsh/collegepulse-docs.git"
+  },
+  "author": "Peter Mikitsh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petermikitsh/collegepulse-docs/issues"
+  },
+  "homepage": "https://github.com/petermikitsh/collegepulse-docs#readme",
+  "dependencies": {
+    "gitbook-cli": "2.3.0"
+  }
+}
