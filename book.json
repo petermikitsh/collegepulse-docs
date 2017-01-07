@@ -1,6 +1,6 @@
 {
   "links": {
-    "home": null
+    "home": false
   },
   "plugins": [
     "-sharing"
