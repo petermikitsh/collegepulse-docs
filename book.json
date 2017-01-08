@@ -1,7 +1,6 @@
 {
   "links": {
-    "custom": false,
-    "gitbook": false
+    "sidebar": false
   },
   "plugins": [
     "-sharing"
