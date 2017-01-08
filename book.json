@@ -1,6 +1,8 @@
 {
   "links": {
-    "sidebar": {}
+    "sidebar": {
+      "foo": "bar"
+    }
   },
   "plugins": [
     "-sharing"
