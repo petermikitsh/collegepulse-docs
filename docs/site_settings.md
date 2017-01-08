@@ -9,3 +9,5 @@ To customize site settings:
  * From the homepage, select the 'Admin' gear symbol in the upper right navigation
  * Select 'Settings' from the upper right navigation 
  * Modify your settings as necessary.
+
+![Changing Settings](../img/change_settings.gif)
