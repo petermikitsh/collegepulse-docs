@@ -1,6 +1,6 @@
 {
   "links": {
-    "sidebar": false
+    "sidebar": {}
   },
   "plugins": [
     "-sharing"
