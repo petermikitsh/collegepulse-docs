@@ -2,6 +2,10 @@
     display: none !important;
 }
 
+.summary > li:nth-child(2) {
+    display: none !important;
+}
+
 /* Sidebar Links */
 .book .book-summary ul.summary li a:hover,
 .book .book-summary ul.summary li.active>a {
