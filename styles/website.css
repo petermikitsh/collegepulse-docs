@@ -2,6 +2,7 @@
     display: none !important;
 }
 
+/* Hide injected sidebar link */
 .summary > li:nth-child(2) {
     display: none !important;
 }
