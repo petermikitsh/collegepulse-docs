@@ -1,6 +1,6 @@
 # Site Settings
 
-Through the site settings page, the site color, site name, and timezone can be figured.
+Through the site settings page, the site color, site name, and timezone can be configured.
 
 > You will need administrative access in order to customize these settings.
 

@@ -2,7 +2,7 @@
 
 CollegePulse supports all modern desktop browsers. This includes:
  * Internet Explorer 11+
- * Microsoft Edge
+ * Microsoft Edge (all versions)
  * Firefox 50+
  * Chrome 55+
  * Safari 10

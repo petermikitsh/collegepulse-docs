@@ -1,5 +1,15 @@
 # Summary
 
 * [Introduction](README.md)
+* [Submissions](docs/submissions.md)
+ * [Creating a Submission](docs/submissions.md#creating-submissions)
+ * [Adding Signatures](docs/submissions.md#adding-signatures)
+ * [Viewing Responses](docs/submissions.md#viewing-responses)
+* [Responses](docs/responses.md)
+ * [Creating Responses](docs/responses.md#creating-responses)
+* [Tags](docs/tags.md)
+* [Moderation](docs/moderation.md)
+ * [Hiding Submissions](docs/moderation.md#hiding-submissions)
+* [User Management](docs/user_management.md)
 * [Site Settings](docs/site_settings.md)
 * [Browser Support](docs/browser_support.md)

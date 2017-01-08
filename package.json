@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/petermikitsh/collegepulse-docs#readme",
   "dependencies": {
-    "gitbook-cli": "2.3.0"
+    "gitbook-cli": "2.3.0",
+    "gitbook-plugin-heading-anchors": "1.0.3"
   }
 }

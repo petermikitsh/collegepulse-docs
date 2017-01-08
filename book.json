@@ -5,6 +5,7 @@
     }
   },
   "plugins": [
-    "-sharing"
+    "-sharing",
+    "heading-anchors"
   ]
 }
